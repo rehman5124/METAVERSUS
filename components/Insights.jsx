@@ -30,7 +30,7 @@ function Insights() {
                 <img 
                     src="/arrow.svg"
                     alt="arrow"
-                    className=" bg-transparent border-[1px] border-white p-8 rounded-full h-fit lg:mt-[100px] md:p-4 md:mt-[130px] ml-auto"
+                    className=" bg-transparent border-[1px] border-white p-8 rounded-full h-fit lg:mt-[100px] md:p-4 md:mt-[130px] ml-auto xm:invisible sm:invisible md:visible lg:visible"
                 />
             </motion.div>
             <motion.div 
@@ -50,7 +50,7 @@ function Insights() {
                 <img 
                     src="/arrow.svg"
                     alt="arrow"
-                    className=" bg-transparent border-[1px] border-white p-8 rounded-full h-fit lg:mt-[100px] md:p-4 md:mt-[130px] ml-auto"
+                    className=" bg-transparent border-[1px] border-white p-8 rounded-full h-fit lg:mt-[100px] md:p-4 md:mt-[130px] ml-auto xm:invisible sm:invisible md:visible lg:visible"
                 />
             </motion.div>
             <motion.div 
@@ -70,7 +70,7 @@ function Insights() {
                 <img 
                     src="/arrow.svg"
                     alt="arrow"
-                    className=" bg-transparent border-[1px] border-white p-8 rounded-full h-fit lg:mt-[100px] md:p-4 md:mt-[130px] ml-auto"
+                    className=" bg-transparent border-[1px] border-white p-8 rounded-full h-fit lg:mt-[100px] md:p-4 md:mt-[130px] ml-auto xm:invisible sm:invisible md:visible lg:visible"
                 />
             </motion.div>
         </div>
