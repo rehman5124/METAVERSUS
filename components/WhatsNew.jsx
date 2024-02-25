@@ -19,7 +19,7 @@ function WhatsNew() {
       >
         <SectionText title={"What's New?"} position={"justify-start -mb-8"} />
         <h1 className=" lg:text-5xl md:text-4xl sm:text-2xl text-xl font-bold lg:leading-[70px] md:leading-[60px]">
-          What's new about <br />
+          Whats new about <br />
           Metaversus?
         </h1>
         <div className=" flex gap-16">

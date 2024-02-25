@@ -29,7 +29,7 @@ function About() {
             initial='hidden' 
             whileInView='visible'
             className=''>
-            <p className=' text-lg md:text-2xl md:px-4 lg:text-4xl lg:px-8 text-slate-400 lg:leading-[46px] z-10'><b className=' text-white font-bold'>Metaverse</b> is a new thing in the future, where you can enjoy the virtual world by feeling like it's really real, you can feel what you feel in this metaverse world, because this is really the madness of the metaverse of today, using only <b className=' text-white font-bold'>VR devices</b> you can easily explore the metaverse world you want, turn your dreams into reality. Let's <b className='text-white font-bold'>explore</b> the madness of the metaverse by scrolling down</p>
+            <p className=' text-lg md:text-2xl md:px-4 lg:text-4xl lg:px-8 text-slate-400 lg:leading-[46px] z-10'><b className=' text-white font-bold'>Metaverse</b> is a new thing in the future, where you can enjoy the virtual world by feeling like its really real, you can feel what you feel in this metaverse world, because this is really the madness of the metaverse of today, using only <b className=' text-white font-bold'>VR devices</b> you can easily explore the metaverse world you want, turn your dreams into reality. Lets <b className='text-white font-bold'>explore</b> the madness of the metaverse by scrolling down</p>
         </motion.div>
         <div className=' flex flex-row justify-center mt-8'>
             <motion.img

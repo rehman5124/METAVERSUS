@@ -17,7 +17,7 @@ function FounderInfo() {
                 <h1 className=' text-xl font-semibold z-20 lg:text-3xl md:text-2xl'>ZUCKERBERG</h1>
                 <h4 className=' text-sm font-light lg:text-base'>Founder Metaversus</h4>
             </div>
-            <p className=' lg:text-2xl '>“With the development of today's technology, metaverse is very useful for today's work, or can be called web 3.0. by using metaverse you can use it as anything”</p>
+            <p className=' lg:text-2xl '>“With the development of todays technology, metaverse is very useful for today work, or can be called web 3.0. by using metaverse you can use it as anything”</p>
         </motion.div>
         <div className=''>
             <motion.img 
